@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class July19 {
+public class LCJuly19 {
         public List<Integer> luckyNumbers (int[][] matrix) {
             int n = matrix.length;
             int m = matrix[0].length;
